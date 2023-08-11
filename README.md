@@ -21,6 +21,7 @@ This repository showcases the utilization of web worker technology to enhance th
 1. Clone the repository.
 2. Open the `index.html` file in a modern web browser.
 3. Use the user interface to adjust parameters, zoom in/out, and navigate through the fractal.
+4. Deployed at https://pavelkk.github.io/madelbrot/
 
 ## Contributions
 
